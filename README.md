@@ -43,4 +43,4 @@ To run this project on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/quote-generator.git
+   git clone https://github.com/Khairul25556/quote-generator.git
